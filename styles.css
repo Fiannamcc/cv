@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #6E6D6D;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #ff7171;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ff7171;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #FFAA71;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+  border: dotted #ECECEC 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #FFAA71;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ECECEC;
+}
+.sub-header {
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: #6E6D6D;
+}
+
+.top-container {
+  background-color: #ECECEC;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.bug-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.disc-golf {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.bottom-container {
+  background-color: #ff7171;
+  padding: 50px 0 20px;
+}
+
+.get-in-touch {
+  color: #ff7171;
+}
+
+ .top-cloud {
+   position: absolute;
+   right: 200px;
+   top: 40px;
+ }
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.contact-message {
+  width: 33%;
+  margin: 40px auto 60px;
+}
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ECECEC;
+  font-size: 20px;
+  background: #ff7171;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffaa71;
+  text-decoration: none;
+}
+
+.footer-link: {
+  color: #6E6D6D;
+}
+
+.copyright {
+  color: #ECECEC;
+  font-size: 0.75rem;
+  font-family: 'Montserrat', sans-serif;
+  padding: 20px 0;
+}
